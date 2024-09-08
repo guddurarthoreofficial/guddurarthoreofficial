@@ -1,6 +1,6 @@
 # guddurathoreofficial
 
-![logo](https://github.com/guddurarthoreofficial/guddurathoreofficial/blob/main/20240518_190835_0000.png)
+![logo](https://github.com/guddurarthoreofficial/guddurarthoreofficial/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Guddu Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
